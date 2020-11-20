@@ -1,7 +1,8 @@
 ### Max's GIS Portfolio
 I am currently a student at Colorado Mountain College working towards my GIS Certificate. My desire is to enter the field of environmental conservation to protect and rehabiliate the resources essential for our planet to thrive. This is a collection of my work and interests within this field to reveal areas that can be targeted for improvement efforts in the real world. 
 ## Thematic 3D Visualization Using ArcGIS Online
-This description needs to be updated after project completion.
+3D visualization of address density, by hex bin, in Redlands, CA
+https://arcg.is/1i405r
 <!--
 **maxgerke/maxgerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
